@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/valid-input-eg.png" width="80%" alt="Delhi Veins Banner"/>
+  <img src="assets/valid-input-eg.png" width="50%" alt="Delhi Veins Banner"/>
 </p>
 
 A user-friendly **Sudoku Solver** built in Java that uses **Backtracking and Recursion** to solve 9x9 Sudoku puzzles. The application features an interactive GUI with real-time algorithm visualization, allowing users to watch the solving process step by step.
@@ -64,11 +64,11 @@ A user-friendly **Sudoku Solver** built in Java that uses **Backtracking and Rec
 <img src="assets/wrong-input-alert.png" width="70%" alt="Dropdown selection"/>
 
 ### Few stages of Recursive Process
-<p align="center"> <img src="assets/Recursion S1.png" width="14%" alt="Stage 1"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S2.png" width="14%" alt="Stage 2"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S3.png" width="14%" alt="Stage 3"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S4.png" width="14%" alt="Stage 4"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S5.png" width="14%" alt="Stage 5"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S6.png" width="14%" alt="Stage 6"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S7.png" width="14%" alt="Stage 7"/> 
+<p align="center"> <img src="assets/Recursion S1.png" width="20%" alt="Stage 1"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S2.png" width="20%" alt="Stage 2"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S3.png" width="20%" alt="Stage 3"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S4.png" width="20%" alt="Stage 4"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S5.png" width="20%" alt="Stage 5"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S6.png" width="20%" alt="Stage 6"/> <span style="font-weight:bold; font-size:20px;">→</span> <img src="assets/Recursion S7.png" width="20%%" alt="Stage 7"/> 
 </p>
 
 ### Completion Information
-<img src="assets/complete-info.png" width="70%" alt="Minimum Exchange"/>
+<img src="assets/complete-info.png" width="50%" alt="Minimum Exchange"/>
 
 
 ## Educational Value
@@ -88,6 +88,4 @@ A user-friendly **Sudoku Solver** built in Java that uses **Backtracking and Rec
 > ✨ This project is part of an academic submission and is meant for educational purposes. Feel free to contribute or fork!
 
 =======
-# Sudoku-Solver
-The Sudoku Solver is a Java-based application designed to provide users with an intuitive interface for solving Sudoku puzzles. The project emphasizes user experience, algorithm visualization, and the ability to handle custom input
->>>>>>> 7c0bc6613b6a807a36ecabda990fe4cfc258b409
+
