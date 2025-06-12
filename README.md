@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">🛤️ Delhi Veins</h1>
 <p align="center">
   <em>Visualizing Foundational DSA Algorithms such as <b>Backtracking<b> and <b>Recursion<b> through a familiar game Sudoku.</em>
@@ -86,3 +87,7 @@ A user-friendly **Sudoku Solver** built in Java that uses **Backtracking and Rec
 
 > ✨ This project is part of an academic submission and is meant for educational purposes. Feel free to contribute or fork!
 
+=======
+# Sudoku-Solver
+The Sudoku Solver is a Java-based application designed to provide users with an intuitive interface for solving Sudoku puzzles. The project emphasizes user experience, algorithm visualization, and the ability to handle custom input
+>>>>>>> 7c0bc6613b6a807a36ecabda990fe4cfc258b409
