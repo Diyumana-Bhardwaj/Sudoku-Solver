@@ -1,6 +1,6 @@
 <h1 align="center">Sudoku Solver</h1>
 <p align="center">
-  <em>Visualizing Foundational DSA Algorithms such as <b>Backtracking<b> and <b>Recursion<b> through a familiar game Sudoku.</em>
+  <em>Visualizing Foundational DSA Algorithms such as **Backtracking** and <b>Recursion<b> through a familiar game Sudoku.</em>
 </p>
 
 <p align="center">
