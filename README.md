@@ -1,6 +1,6 @@
 <h1 align="center">Sudoku Solver</h1>
 <p align="center">
-  <em>Visualizing Foundational DSA Algorithms such as <b></b>Backtracking</b> and <b>Recursion</b> through a familiar game Sudoku.</em>
+  <em>Visualizing Foundational DSA Algorithms such as <b>Backtracking</b> and <b>Recursion</b> through a familiar game Sudoku.</em>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 A user-friendly **Sudoku Solver** built in Java that uses **Backtracking and Recursion** to solve 9x9 Sudoku puzzles. The application features an interactive GUI with real-time algorithm visualization, allowing users to watch the solving process step by step.
 
-## 📌 Features
+## Features
 
 - 🔢 **9x9 Sudoku Grid** using `JTextField[][]`
 - 🎨 **Visual Solver**: Watch each step of the backtracking process with color-coded feedback
@@ -85,5 +85,4 @@ A user-friendly **Sudoku Solver** built in Java that uses **Backtracking and Rec
 
 > ✨ This project is part of an academic submission and is meant for educational purposes. Feel free to contribute or fork!
 
-=======
 
