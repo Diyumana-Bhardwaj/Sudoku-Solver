@@ -1,10 +1,10 @@
 <h1 align="center">Sudoku Solver</h1>
 <p align="center">
-  <em>Visualizing Foundational DSA Algorithms such as **Backtracking** and <b>Recursion<b> through a familiar game Sudoku.</em>
+  <em>Visualizing Foundational DSA Algorithms such as <b></b>Backtracking</b> and <b>Recursion</b> through a familiar game Sudoku.</em>
 </p>
 
 <p align="center">
-  <img src="assets/valid-input-eg.png" width="40%" alt="Delhi Veins Banner"/>
+  <img src="assets/valid-input-eg.png" width="40%" alt="Sudoku Grid"/>
 </p>
 
 A user-friendly **Sudoku Solver** built in Java that uses **Backtracking and Recursion** to solve 9x9 Sudoku puzzles. The application features an interactive GUI with real-time algorithm visualization, allowing users to watch the solving process step by step.
@@ -76,11 +76,10 @@ A user-friendly **Sudoku Solver** built in Java that uses **Backtracking and Rec
 - Explains recursion clearly through interface updates
 - Great for learning algorithms and Java GUI development
 
-## 🔗 Related LinkedIn Post
+## Check Out
 
-> ✨ “What began as a mini-project turned into a metro-sized journey.”  
-> Read the full story behind building **Delhi Veins** on LinkedIn:  
-**[🔗 Click to read](https://www.linkedin.com/posts/diyumana-bhardwaj_dsa-dsainreallife-learnwithfun-activity-7334260088481730560-hkjp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAESuVMMBVZc_3wpWPqClK3GIK4xugcX6uHU)**
+- [LinkedIn](https://www.linkedin.com/in/diyumana-bhardwaj)  
+
 
 ---
 
