@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<h1 align="center">🛤️ Delhi Veins</h1>
+<h1 align="center">Sudoku Solver</h1>
 <p align="center">
   <em>Visualizing Foundational DSA Algorithms such as <b>Backtracking<b> and <b>Recursion<b> through a familiar game Sudoku.</em>
 </p>
